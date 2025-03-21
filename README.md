@@ -9,6 +9,10 @@
 [![Unity](https://custom-icon-badges.demolab.com/badge/Unity-000000.svg?logo=unity&logoColor=white)](#) [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white)](#)  
 <br/>
 
+### IDE 💻 
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%235C2D91.svg?logo=visualstudio&logoColor=white)](#) [![Visual Assist](https://custom-icon-badges.demolab.com/badge/Visual%20Assist-%23007ACC.svg?logo=visualassist&logoColor=white)](#)
+<br/><br/>
+
 ### Currently Learning 📚  
 [![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](#) [![Python](https://custom-icon-badges.demolab.com/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#)  
 <br/><br/>
