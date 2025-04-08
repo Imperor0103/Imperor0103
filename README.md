@@ -10,7 +10,8 @@
 <br/>
 
 ### IDE 💻 
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%235C2D91.svg?logo=visualstudio&logoColor=white)](#) [![Visual Assist](https://custom-icon-badges.demolab.com/badge/Visual%20Assist-%23007ACC.svg?logo=visualassist&logoColor=white)](#)
+[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%235C2D91.svg?logo=visualstudio&logoColor=white)](#) [![Visual Assist](https://custom-icon-badges.demolab.com/badge/Visual%20Assist-%23FF6347.svg?logo=visualassist&logoColor=white)](#)
+<br/>[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white)](#) [![CMake](https://custom-icon-badges.demolab.com/badge/CMake-%23064F8C.svg?logo=cmake&logoColor=white)](#)
 <br/><br/>
 
 ### Currently Learning 📚  
