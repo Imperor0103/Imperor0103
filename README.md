@@ -18,7 +18,7 @@
 [![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](#) [![Python](https://custom-icon-badges.demolab.com/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#)  
 <br/><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/><br/>
 
 ![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&theme=chartreuse-dark&count_private=true&show_icons=true)  
