@@ -9,7 +9,7 @@
 [![Unity](https://custom-icon-badges.demolab.com/badge/Unity-000000.svg?logo=unity&logoColor=white)](#) [![Git](https://custom-icon-badges.demolab.com/badge/Git-%23F05032.svg?logo=git&logoColor=white)](#) [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white)](#)  
 <br/>
 
-### IDE 💻 
+### IDE 🖥️ 
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%235C2D91.svg?logo=visualstudio&logoColor=white)](#) [![Visual Assist](https://custom-icon-badges.demolab.com/badge/Visual%20Assist-%23FF6347.svg?logo=visualassist&logoColor=white)](#)
 <br/>[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white)](#) 
 <br/>[![IntelliJ IDEA](https://custom-icon-badges.demolab.com/badge/IntelliJ%20IDEA-%23000080.svg?logo=intellijidea&logoColor=white)](#)
