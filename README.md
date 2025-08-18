@@ -1,6 +1,6 @@
 <div align="center">
 
-## Imperor0103 😊  
+## You are viewing Imperor's profile 💾  
 ### Language and Skill 💻  
 [![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-%2300599C.svg?logo=cpp2&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![OpenGL](https://custom-icon-badges.demolab.com/badge/OpenGL-%235586A4.svg?logo=opengl&logoColor=white)](#) [![WinAPI](https://custom-icon-badges.demolab.com/badge/WinAPI-%234F8A8B.svg?logo=windows&logoColor=white)](#)  
 <br/>
