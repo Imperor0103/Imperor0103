@@ -16,8 +16,14 @@
 <br/><br/>
 
 ### Currently Learning 📚  
-[![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](#) [![Python](https://custom-icon-badges.demolab.com/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#) [![Java](https://custom-icon-badges.demolab.com/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](#) 
-[![Spring](https://custom-icon-badges.demolab.com/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)](#) 
+[![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](#) [![Python](https://custom-icon-badges.demolab.com/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#) 
+[![Java](https://custom-icon-badges.demolab.com/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](#) 
+[![Spring](https://custom-icon-badges.demolab.com/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)](#) [![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#) 
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#) [![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](#) 
+<br/><br/>
+
+### Interests 🎯
+graphics programming, game enigne programming, low-level programming, machine leaning, web programming, mobile app programming
 <br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,8 +35,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imperor0103)](https://solved.ac/imperor0103/) 
 
 ![Programmers Badge](https://raw.githubusercontent.com/Imperor0103/Programmers_Badge_Generator/main/result/result.svg)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FImperor0103%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
