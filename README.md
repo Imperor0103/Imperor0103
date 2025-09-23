@@ -46,5 +46,5 @@ Mobile app programming
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imperor0103)](https://solved.ac/imperor0103/)<br/>
 
-![Programmers Badge](https://raw.githubusercontent.com/Imperor0103/Programmers_Badge_Generator/main/result/result.svg)<br/>
+![Programmers Badge](https://raw.githubusercontent.com/Imperor0103/programmers-badge/master/static/result.svg)<br/>
 </div>
