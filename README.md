@@ -45,6 +45,6 @@ Mobile app programming
 ![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&theme=chartreuse-dark&count_private=true&show_icons=true)<br/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imperor0103)](https://solved.ac/imperor0103/)<br/>
-
+![Leetcode Badge](https://leetcode-badge-sage.vercel.app/badge/imperor0103?theme=neutral)<br/>
 ![Programmers Badge](https://raw.githubusercontent.com/Imperor0103/programmers-badge/master/static/result.svg)<br/>
 </div>
