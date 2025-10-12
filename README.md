@@ -45,6 +45,4 @@ Mobile app programming
 <br/>
 <br/>
 ![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&theme=chartreuse-dark&count_private=true&show_icons=true)
-<br/>
-<br/>
 </div>
