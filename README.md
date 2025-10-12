@@ -43,8 +43,4 @@ Mobile app programming
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 ![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&theme=chartreuse-dark&count_private=true&show_icons=true)<br/>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=imperor0103)](https://solved.ac/imperor0103/)<br/>
-![Leetcode Badge](https://leetcode-badge-sage.vercel.app/badge/imperor0103?theme=neutral)<br/>
-![Programmers Badge](https://raw.githubusercontent.com/Imperor0103/Programmers_Badge_Generator/main/result/result.svg)<br/>
 </div>
