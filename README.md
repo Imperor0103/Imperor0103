@@ -1,34 +1,35 @@
-<div align="center">
+<div align="left">
 
 ## You are viewing Imperor's profile 💾  
 ### Language and Skill 💻  
-[![C++](https://custom-icon-badges.demolab.com/badge/C%2B%2B-%2300599C.svg?logo=cpp2&logoColor=white)](#) 
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) 
-[![OpenGL](https://custom-icon-badges.demolab.com/badge/OpenGL-%235586A4.svg?logo=opengl&logoColor=white)](#) 
-[![WinAPI](https://custom-icon-badges.demolab.com/badge/WinAPI-%234F8A8B.svg?logo=windows&logoColor=white)](#) 
-[![Java](https://custom-icon-badges.demolab.com/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)](#) 
-[![Spring](https://custom-icon-badges.demolab.com/badge/Spring-%236DB33F.svg?logo=spring&logoColor=white)](#) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![WinAPI](https://img.shields.io/badge/WinAPI-4F8A8B?style=for-the-badge&logo=windows&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <br/>
 
 ### Tools 🔨  
-[![Unity](https://custom-icon-badges.demolab.com/badge/Unity-000000.svg?logo=unity&logoColor=white)](#) 
-[![Git](https://custom-icon-badges.demolab.com/badge/Git-%23F05032.svg?logo=git&logoColor=white)](#) 
-[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-181717.svg?logo=github&logoColor=white)](#)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <br/>
 
 ### IDE 🖥️ 
-[![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-%235C2D91.svg?logo=visualstudio&logoColor=white)](#) 
-[![Visual Assist](https://custom-icon-badges.demolab.com/badge/Visual%20Assist-%23FF6347.svg?logo=visualassist&logoColor=white)](#)
-<br/>[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-%23007ACC.svg?logo=visualstudiocode&logoColor=white)](#) 
-<br/>[![IntelliJ IDEA](https://custom-icon-badges.demolab.com/badge/IntelliJ%20IDEA-%23000080.svg?logo=intellijidea&logoColor=white)](#)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Assist](https://img.shields.io/badge/Visual%20Assist-FF6347?style=for-the-badge&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000080?style=for-the-badge&logo=intellijidea&logoColor=white)
 <br/>
 
 ### Currently Learning 📚  
-[![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white)](#) 
-[![Python](https://custom-icon-badges.demolab.com/badge/Python-%233776AB.svg?logo=python&logoColor=white)](#) 
-[![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#) 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](#) 
-[![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](#) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br/>
 
 ### Interests 🎯
