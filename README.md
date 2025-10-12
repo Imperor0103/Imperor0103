@@ -10,20 +10,20 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 <br/>
-
+<br/>
 ### Tools 🔨  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <br/>
-
+<br/>
 ### IDE 🖥️ 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Assist](https://img.shields.io/badge/Visual%20Assist-FF6347?style=for-the-badge&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000080?style=for-the-badge&logo=intellijidea&logoColor=white)
 <br/>
-
+<br/>
 ### Currently Learning 📚  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 <br/>
-
+<br/>
 ### Interests 🎯
 Graphics programming<br/>
 Game enigne programming<br/>
@@ -39,9 +39,12 @@ Low-level programming<br/>
 Machine learning<br/>
 Web programming<br/>
 Mobile app programming
-<br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
-
-![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&theme=chartreuse-dark&count_private=true&show_icons=true)<br/>
+<br/>
+<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<br/>
+![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&theme=chartreuse-dark&count_private=true&show_icons=true)
+<br/>
+<br/>
 </div>
