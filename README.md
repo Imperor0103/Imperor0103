@@ -41,8 +41,8 @@ Web programming<br/>
 Mobile app programming
 <br/>
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Imperor0103&langs_count=8&theme=radical)
 <br/>
 <br/>
-![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&theme=chartreuse-dark&count_private=true&show_icons=true)
+![Imperor0103's GitHub stats](https://github-readme-stats.vercel.app/api?username=Imperor0103&count_private=true&show_icons=true&theme=radical)
 </div>
